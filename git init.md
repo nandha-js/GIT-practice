@@ -4,7 +4,7 @@
 Starts a new **Git repository** in your current folder.
 
 ### 💻 Usage
-```bash
+
 git init
 
 📂 Result

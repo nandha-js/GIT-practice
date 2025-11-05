@@ -1,7 +1,7 @@
 # 📘 Git Command Note
 
 ## Command:
-```bash
+
 git config --global init.defaultbranch main
 
 🧩 Description:

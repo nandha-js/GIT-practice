@@ -4,7 +4,7 @@
 Shows the **current state** of your working directory and staging area.
 
 ### 💻 Usage
-```bash
+
 git status
 
 📊 Output Shows
