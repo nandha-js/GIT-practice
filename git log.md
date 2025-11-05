@@ -5,7 +5,7 @@ Displays the **history of commits** in the current repository.
 
 ### 💻 Usage
 ```bash
-git log
+# git log
 
 📊 Output Shows
 
