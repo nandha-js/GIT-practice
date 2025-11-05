@@ -47,3 +47,25 @@ Use only when you want a clean working directory without keeping current edits.
 
 ### ✅ In Short
 > Forces a branch switch and removes all uncommitted changes.
+
+
+# 📘 Command: git checkout -b
+
+### 📝 Description
+Creates a **new branch** and **switches** to it immediately.
+
+### 💻 Usage
+git checkout -b branch-name
+
+### 🔍 Breakdown
+| Part | Meaning |
+|------|----------|
+| git checkout | Used to switch branches. |
+| -b | Creates a new branch before switching. |
+| branch-name | The name of the new branch. |
+
+### 💡 Tip
+Use this to start new features or fixes without affecting the main branch.
+
+### ✅ In Short
+> Creates and switches to a new branch in one step.
